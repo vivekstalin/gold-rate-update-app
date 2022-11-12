@@ -1,7 +1,7 @@
 This app will provide updates on the opening price and the closing price of 24/22KT gold in INR (picked from a trustable Indian jeweller website) and the price details will be received via whatsapp to your mobile number at the start and end of the market time of a day. 
 
 **Technology brief:**
-1. Achieved whatsapp messaging using Twilio Whatsapp API sandbox
+1. Achieved whatsapp messaging using [Twilio Whatsapp API sandbox](https://console.twilio.com/)
 2. Business logic is achieved using serveless computing capaility in [Heroku PaaS](https://dashboard.heroku.com) using dynamos
 3. The automation is programmed using Python. Some key packages used are listed below: 
      1. twilio==6.47.0
