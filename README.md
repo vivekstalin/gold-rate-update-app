@@ -1,4 +1,4 @@
-This app will provide updates on the opening price and the closing price of 24/22KT gold in INR (picked from a trustable jewellery website) and the price details will be received via whatsapp to your mobile number at the start and end of the market time of a day. 
+This app will provide updates on the opening price and the closing price of 24/22KT gold in INR (picked from a trustable Indian jeweller website) and the price details will be received via whatsapp to your mobile number at the start and end of the market time of a day. 
 
 **Technology brief:**
 1. Achieved whatsapp messaging using Twilio Whatsapp API sandbox
